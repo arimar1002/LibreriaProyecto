@@ -67,6 +67,10 @@ a .link-color {
 	#contenedorsecundario h1{
 		font-size: 1.8rem!important;
 	}
+
+	p.lg-base{
+		font-size: 0.9rem!important;
+	}
 }
 
 .btn-lg, .btn-group-lg > .btn {
