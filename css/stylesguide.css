@@ -27,6 +27,11 @@ nombre-libro-line-height: 122.00000286102295%;
 nombre-libro-font-style: normal;
 }
 
+row{
+	margin: 0px;
+	padding: 0px;
+}
+
 a {
   color: #D36954;
   text-decoration: none;
