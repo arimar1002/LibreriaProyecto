@@ -114,7 +114,7 @@
 @media (min-width: 992px){
 	#slide1, #slide2, #slide3{
 		height: calc(100vh - 148px);
-		padding: 6rem;
+		padding: 3rem;
 		align-content: center;
 	
 	}
@@ -151,7 +151,7 @@
 @media (min-width: 1200px){
 	#slide1, #slide2, #slide3{
 		height: calc(100vh - 148px);
-		padding: 7rem;
+		padding: 4rem;
 		align-content: center;
 	
 	}
@@ -180,7 +180,7 @@
 @media (min-width: 1400px){
 	#slide1, #slide2, #slide3{
 		height: calc(100vh - 148px);
-		padding: 10rem;
+		padding: 6rem;
 		align-content: center;
 	
 	}
